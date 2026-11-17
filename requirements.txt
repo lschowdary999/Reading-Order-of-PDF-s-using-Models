@@ -1,0 +1,3 @@
+# Core dependencies for Hybrid_PDF_Reading_Order (Phase 1)
+-r requirements/base.txt
+
